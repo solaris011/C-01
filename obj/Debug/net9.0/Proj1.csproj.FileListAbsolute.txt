@@ -1,0 +1,15 @@
+C:\projects\CsharpProjects\Proj1\bin\Debug\net9.0\Proj1.exe
+C:\projects\CsharpProjects\Proj1\bin\Debug\net9.0\Proj1.deps.json
+C:\projects\CsharpProjects\Proj1\bin\Debug\net9.0\Proj1.runtimeconfig.json
+C:\projects\CsharpProjects\Proj1\bin\Debug\net9.0\Proj1.dll
+C:\projects\CsharpProjects\Proj1\bin\Debug\net9.0\Proj1.pdb
+C:\projects\CsharpProjects\Proj1\obj\Debug\net9.0\Proj1.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\CsharpProjects\Proj1\obj\Debug\net9.0\Proj1.AssemblyInfoInputs.cache
+C:\projects\CsharpProjects\Proj1\obj\Debug\net9.0\Proj1.AssemblyInfo.cs
+C:\projects\CsharpProjects\Proj1\obj\Debug\net9.0\Proj1.csproj.CoreCompileInputs.cache
+C:\projects\CsharpProjects\Proj1\obj\Debug\net9.0\Proj1.sourcelink.json
+C:\projects\CsharpProjects\Proj1\obj\Debug\net9.0\Proj1.dll
+C:\projects\CsharpProjects\Proj1\obj\Debug\net9.0\refint\Proj1.dll
+C:\projects\CsharpProjects\Proj1\obj\Debug\net9.0\Proj1.pdb
+C:\projects\CsharpProjects\Proj1\obj\Debug\net9.0\Proj1.genruntimeconfig.cache
+C:\projects\CsharpProjects\Proj1\obj\Debug\net9.0\ref\Proj1.dll
